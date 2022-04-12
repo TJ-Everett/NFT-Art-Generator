@@ -1,0 +1,17 @@
+{
+    "layers": [
+        "BG",
+        "Body",
+        "Eyes",
+        "Headband",
+        "Weapon",
+        "Off Hand"
+    ],
+    "image_description": "Eth Ninjas",
+    "image_count": 1000,
+    "image_details": {
+        "width": 1920,
+        "height": 1080
+    },
+    "image_location": "ipfs://QmThdTBCR8DsnXMViDGC13EH9NughYzJrk7VjaAsRBmhX8"
+}
